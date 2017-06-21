@@ -15,7 +15,7 @@ public class Cliente {
     public String getNombre() {
         return nombre;
     }
-
+//modificando para ver que pasa
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
